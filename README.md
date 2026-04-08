@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub.;Nice%20to%20meet%20you!&center=true&size=28&color=00ADB5&pause=1000&width=700&font=Montserrat">
 </h1>
 
----
+<br/>
 
 <div align="center">
   <strong>
