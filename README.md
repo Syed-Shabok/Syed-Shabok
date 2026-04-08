@@ -1,25 +1,19 @@
-<!-- Profile Views -->
-![](https://komarev.com/ghpvc/?username=Syed-Shabok&style=for-the-badge)
-
 <!-- Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20I%27m%20Shabok&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Coding GIF -->
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub;Full-Stack%20Web%20Developer;Unity%20Game%20Developer;I%20Build%20Apps%20and%20Games%20🎮&center=true&size=32&color=00ADB5&pause=1000&width=600&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20GitHub.;Nice%20to%20meet%20you!&center=true&size=28&color=00ADB5&pause=1000&width=700&font=Montserrat">
 </h1>
 
 ---
 
 <div align="center">
   <strong>
-    Web & Game Developer 👋 | MERN Stack Developer | Unity (C#) Game Developer 🎮 | 
-    Building Interactive Applications & Real-World Solutions 🌐
+    MERN Stack & Full-Stack Web Developer 👋 | Passionate about Crafting Interactive Frontend Experiences, Optimized Backend Systems, and Real-World Solutions 💻 | Unity (C#) Game Developer 🎮 | Continuously Learning, Experimenting, and Solving Problems 🚀
   </strong>
 </div>
 
@@ -33,21 +27,23 @@
 
 <hr/>
 
+<!-- Coding GIF -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+
 ### 🧠 Talking about Me:
 
-- 🛠 I’m working with **React, Node.js, Express, MongoDB & Unity (C#)**  
-- 🎮 I build **games and full-stack web applications**  
+- 🛠 I’m working with **JS, React, Node.js, Express, MongoDB**  
+- 🎮 I build **Full-stack web applications**  
 - 🚀 Currently improving through **real-world projects & problem solving**  
 - 📫 Reach me at: **syed.shabok@gmail.com**  
 
----
 
-### ❤️ What I Love:
-- 💻 Building interactive apps & games  
+### 🧩 What I Love:
+- 💻 Building interactive Web Apps & Games  
 - 🎯 Solving real-world problems with code  
-- 📚 Learning new technologies  
+- 📚 Learning new Technologies  
 
-<hr/>
 
 <h2 align="center">🔥 Tech Stack 🔥</h2>
 
@@ -73,9 +69,9 @@
 
 ```javascript
 const shabok = {
-  role: "Web & Game Developer",
+  role: "Web Developer",
   stack: ["JavaScript", "React", "Node.js", "MongoDB", "C#", "Unity"],
   tools: ["Git", "GitHub", "Figma", "Postman", "VS Code"],
-  interests: ["Game Development", "Full-Stack Apps", "Problem Solving"],
-  goal: "Become a professional Unity Game Developer & MERN Stack Developer"
+  interests: ["Full-Stack Apps", "Game Development",  "Problem Solving"],
+  goal: "Become a professional MERN Stack Developer and build my own pixle RPG Game"
 }
