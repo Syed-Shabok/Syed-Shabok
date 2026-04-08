@@ -10,6 +10,7 @@
 </h1>
 
 <br/>
+<br/>
 
 <div align="center">
   <strong>
@@ -20,9 +21,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Syed-Shabok"><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/syed-shabok"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:syed.shabok@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/61563572799244">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
 </div>
 
 <hr/>
