@@ -40,7 +40,7 @@
 
 <!-- Coding GIF -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
+<br/>
 
 ### 🧠 Talking about Me:
 
@@ -55,7 +55,6 @@
 - 🎯 Solving real-world problems with code  
 - 📚 Learning new Technologies  
 
-<br/>
 <br/>
 
 <h2 align="center">🔥 Tech Stack 🔥</h2>
