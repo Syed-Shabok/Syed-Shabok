@@ -40,29 +40,19 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td width="65%" valign="top">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> 
+<br/>
 
-### 🧠 Talking about Me:
+### 🧠 Talking about Me: 
+- 🛠 I’m working with **JS, React, Node.js, Express, MongoDB**
+- 🎮 I build **Full-stack web applications**
+- 🚀 Currently improving through **real-world projects & problem solving**
+- 📫 Reach me at: **syed.shabok@gmail.com**
 
-- 🛠 I’m working with **JS, React, Node.js, Express, MongoDB**  
-- 🎮 I build **Full-stack web applications**  
-- 🚀 Currently improving through **real-world projects & problem solving**  
-- 📫 Reach me at: **syed.shabok@gmail.com**  
-
-### 🧩 What I Love:
-- 💻 Building interactive Web Apps & Games  
-- 🎯 Solving real-world problems with code  
-- 📚 Learning new Technologies  
-
-    </td>
-
-    <td width="35%" align="center" valign="center">
-      <img alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-    </td>
-  </tr>
-</table>
+### 🧩 What I Love: 
+- 💻 Building interactive Web Apps & Games
+- 🎯 Solving real-world problems with code
+- 📚 Learning new Technologies
 
 <br/>
 
