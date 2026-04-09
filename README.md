@@ -38,23 +38,11 @@
 
 <hr/>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Shabok&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Syed-Shabok&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Shabok&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
-
-<!-- Coding GIF -->
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <br/>
+
+<table align="center">
+  <tr>
+    <td width="65%" valign="top">
 
 ### 🧠 Talking about Me:
 
@@ -63,11 +51,18 @@
 - 🚀 Currently improving through **real-world projects & problem solving**  
 - 📫 Reach me at: **syed.shabok@gmail.com**  
 
-
 ### 🧩 What I Love:
 - 💻 Building interactive Web Apps & Games  
 - 🎯 Solving real-world problems with code  
 - 📚 Learning new Technologies  
+
+    </td>
+
+    <td width="35%" align="center" valign="center">
+      <img alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -93,6 +88,11 @@
 
 <br/>
 
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Code Block -->
+    <td width="60%">
+
 ```javascript
 const shabok = {
   role: "Web Developer",
@@ -101,3 +101,11 @@ const shabok = {
   interests: ["Full-Stack Apps", "Game Development",  "Problem Solving"],
   goal: "Become a professional MERN Stack Developer and build my own pixle RPG Game"
 }
+```
+</td>
+
+<!-- Stats -->
+<td width="40%" valign="middle" align="center">
+  <img src="https://streak-stats.demolab.com?user=Syed-Shabok&theme=tokyonight&hide_border=true" height="160"/>
+</td>
+
