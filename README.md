@@ -38,21 +38,22 @@
 
 <hr/>
 
-<br/>
+<!-- Coding GIF -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> 
-<br/>
 
-### 🧠 Talking about Me: 
-- 🛠 I’m working with **JS, React, Node.js, Express, MongoDB**
-- 🎮 I build **Full-stack web applications**
-- 🚀 Currently improving through **real-world projects & problem solving**
-- 📫 Reach me at: **syed.shabok@gmail.com**
+### 🧠 Talking about Me:
 
-### 🧩 What I Love: 
-- 💻 Building interactive Web Apps & Games
-- 🎯 Solving real-world problems with code
-- 📚 Learning new Technologies
+- 🛠 I’m working with **JS, React, Node.js, Express, MongoDB**  
+- 🎮 I build **Full-stack web applications**  
+- 🚀 Currently improving through **real-world projects & problem solving**  
+- 📫 Reach me at: **syed.shabok@gmail.com**  
+
+
+### 🧩 What I Love:
+- 💻 Building interactive Web Apps & Games  
+- 🎯 Solving real-world problems with code  
+- 📚 Learning new Technologies  
 
 <br/>
 
