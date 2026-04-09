@@ -38,6 +38,20 @@
 
 <hr/>
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Shabok&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Syed-Shabok&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Shabok&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
 <!-- Coding GIF -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <br/>
